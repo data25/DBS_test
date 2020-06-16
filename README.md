@@ -1,7 +1,7 @@
 # DBS_test
-Question 1: The image is enclosed
+Question 1: The image is enclosed.
 
-Question 2: The K difference list are produced for any input list
+Question 2: The K difference list is produced for any input list.
 
 Question 3: The different groups that has same name, phone number or email has been grouped using pandas dataframe.
 
